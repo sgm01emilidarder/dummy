@@ -1,0 +1,44 @@
+{
+  "school-data": [
+    {
+      "students": [
+        {
+          "student": "james stewart",
+          "pc": 1,
+          "subjects": [
+            "sc",
+            "ar"
+          ]
+        },
+        {
+          "student": "michael young",
+          "pc": 2,
+          "subjects": [
+            "hr",
+            "ms"
+          ]
+        }
+      ]
+    },
+    {
+      "subjects": [
+        {
+          "id": "sc",
+          "name": "science"
+        },
+        {
+          "id": "hr",
+          "name": "history"
+        },
+        {
+          "id": "ar",
+          "name": "art"
+        },
+        {
+          "id": "ms",
+          "name": "music"
+        }
+      ]
+    }
+  ]
+}

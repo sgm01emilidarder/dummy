@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<school-data>
+    <alumnos>
+        <alumno id="1" pc="1" nombre="Sergio" apellido="Garcia">
+            <materias>
+                <materia id="ISO"/>
+                <materia id="LLM"/>
+            </materias>
+        </alumno>
+        <alumno id="2" pc="2" nombre="Joan" apellido="Gomila">
+            <materias>
+                <materia id="FH"/>
+            </materias>
+        </alumno>
+
+    </alumnos>
+    <materias>
+        <materia id="ISO">
+            Implantacion de Sistemas Operativos
+        </materia>
+        <materia id="LLM">
+            Lenguaje de Marcas
+        </materia>
+        <materia id="FH">
+            Fundamentos de Hardware
+        </materia>
+    </materias>
+</school-data>

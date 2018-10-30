@@ -1,0 +1,19 @@
+{
+  "alumnos": [
+    {
+      "id":1,
+      "pc":1,
+      "nombre":"Sergio",
+      "apellido":"Garcia",
+      "asignaturas": ["ISO","LLM"]
+    },
+    {
+      "id":2,
+      "pc":2,
+      "nombre":"Joan",
+      "apellido":"Gomila",
+      "asignaturas": ["FH"]
+    }
+  ],
+  "asignaturas"
+}

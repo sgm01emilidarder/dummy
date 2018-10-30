@@ -1,0 +1,6 @@
+alumnos:
+  alumno:
+    id: 1
+    pc: 1
+    nombre: Sergio
+    apellido: Garcia

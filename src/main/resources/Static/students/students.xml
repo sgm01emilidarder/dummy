@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<school-data>
+    <students>
+        <student id="1" pc="1" name="james" surname="stewart">
+            <subjects>
+                <subject id="sc"/>
+                <subject id="ar"/>
+            </subjects>
+        </student>
+        <student id="2" pc="2" name="michael" surname="young">
+            <subjects>
+                <subject id="hr"/>
+                <subject id="ms"/>
+            </subjects>
+        </student>
+    </students>
+    <subjects>
+        <subject id="sc">science</subject>
+        <subject id="hr">history</subject>
+        <subject id="ar">art</subject>
+        <subject id="ms">music</subject>
+    </subjects>
+</school-data>

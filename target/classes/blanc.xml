@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flights>
+    <flight id="1"><![CDATA[Yuhu]]></flight>
+    <items>
+        <item apodo="pepito"></item>
+        <item apodo="&#34;pep&#160;&#160;&#160;ito&#34;"></item>
+        <!--<item apodo="\"pepito\""></item>-->
+        <!--COMENTARIOS-->
+    </items>
+</flights>
