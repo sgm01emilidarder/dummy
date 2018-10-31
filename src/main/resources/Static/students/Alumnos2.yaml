@@ -4,3 +4,9 @@ alumnos:
     pc: 1
     nombre: Sergio
     apellido: Garcia
+    asignaturas: ["01","02","03"]
+
+asignaturas:
+     -matematicas, id="01"
+     -catalan, id="02"
+     -fisica, id="03"
